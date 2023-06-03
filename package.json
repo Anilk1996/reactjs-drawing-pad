@@ -1,5 +1,5 @@
 {
-  "name": "drawing-pad",
+  "name": "reactjs-drawing-pad",
   "version": "1.0.0",
   "description": "Simple Drawing pad, can be used for line drawings, signature, etc",
   "main": "dist/index.js",

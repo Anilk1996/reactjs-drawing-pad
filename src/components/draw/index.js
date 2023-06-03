@@ -13,19 +13,6 @@ const canvasDefaultProps = {
     width: "100%",
   },
 };
-const buttonDefaultProps = {
-  show: true,
-  title: "Save",
-  style: {
-    minHeight: 48,
-    minWidth: 100,
-    borderRadius: 4,
-    border: "1px solid #3cb043",
-    background: "white",
-    fontSize: 20,
-    fontWeight: 500,
-  },
-};
 export const Draw = forwardRef(
   (
     {
